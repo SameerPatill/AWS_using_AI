@@ -1,6 +1,5 @@
 # AWS Using Artificial Intelligence
-![awsLogo](https://github.com/SameerPatill/AWS_using_AI/assets/95972258/3a0face8-c78c-447d-8b73-d00fc52bc239)
-
+![awsLogo](https://github.com/SameerPatill/AWS_using_AI/assets/95972258/1aff8140-2860-465c-bb4e-db76fc664c1b)
 This repo contains Python Script which controls the AWS Operations using Hand Gesture.
 The script is capable of -
   1. Launching EC2 Instance
